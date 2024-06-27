@@ -1,0 +1,56 @@
+* {
+  padding: 2px;
+  margin: 6px;
+}
+
+:root body {
+  background-color: rgb(78, 78, 78);
+}
+
+h1 {
+  background-color: rgba(157, 99, 223, 0.829);
+}
+
+.navbar {
+  background-color: rgb(53, 53, 53);
+}
+
+header {
+  text-align: center;
+  background-color: black;
+  border-radius: 20px;
+}
+
+header img {
+  position: relative;
+  width: 25%;
+  text-align: center;
+}
+
+.boton {
+  text-align: center;
+  background-color: black;
+}
+
+.container-login {
+  height: auto;
+  text-align: center;
+  border-radius: 20px;
+  font-family: "Nunito Sans", sans-serif;
+  font-size: 20px;
+  background-color: #b697fdc5;
+  display: inline-block;
+}
+
+.container-login input {
+  width: 30%;
+
+  background-color: #e19cf7;
+  border-radius: 8px;
+}
+.boton-login {
+  height: 39px;
+  font-size: 20px;
+  font-family: "Nunito Sans", sans-serif;
+  background-color: blue;
+}
